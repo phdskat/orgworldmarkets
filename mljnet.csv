@@ -1,13 +1,13 @@
 name;EAA;FSG;G50;OECD;STEP;KNOBS
-Morrison;;1;1;;1;
-Jagger;1;;;1;;
-Fonda;;;;;;1
-Bowie;1;;1;;;
-Tyler ;1;;;;;1
-Vicious;;1;;1;;
-Jackson;;1;1;;;
-Manson;;;;1;1;
-Bieber;;;;1;;
-Carter;;;;1;;
-Jolie;1;;;;;1
-Hopper;1;1;;1;1;
+Morrison;0;1;1;0;1;0
+Jagger;1;0;0;1;0;0
+Fonda;0;0;0;0;0;1
+Bowie;1;0;1;0;0;0
+Tyler;1;0;0;0;0;1
+Vicious;0;1;0;1;0;0
+Jackson;0;1;1;;0;0
+Manson;0;0;0;1;1;0
+Bieber;0;0;0;1;0;0
+Carter;0;0;0;1;0;0
+Jolie;1;0;0;0;0;1
+Hopper;1;1;0;1;1;0
