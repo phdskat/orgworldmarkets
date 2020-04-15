@@ -63,5 +63,3 @@ clusters <- cutree(agnestree, k = 4)
 # Optimal matching - viewing clusters
 
 seqIplot(sequences, group = clusters)
-
-sequences
